@@ -1,16 +1,48 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot Hasil Implementasi
+### 1. Daftar Todo
+Halaman utama menampilkan seluruh tugas dari data dummy.
 
-Currently, two official plugins are available:
+![Daftar Todo](screenshots/01daftar_todo.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 2. Tambah Todo
+Modal formulir untuk menambahkan tugas baru.
 
-## React Compiler
+![Tambah Todo](screenshots/02tambah_todo.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 3. Setelah Tambah Todo
+Tugas baru langsung muncul di tabel tanpa reload halaman.
 
-## Expanding the ESLint configuration
+![Setelah Tambah Todo](screenshots/03setelah_tambah_todo.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 4. Detail Todo
+Halaman detail menampilkan informasi lengkap suatu tugas.
+
+![Detail Todo](screenshots/04detail_todo.png)
+
+### 5. Update Todo
+Modal formulir update dengan data tugas yang sudah terisi.
+
+![Update Todo](screenshots/05update_todo%20.png)
+
+### 6. Konfirmasi Hapus Todo
+Dialog konfirmasi muncul sebelum tugas dihapus.
+
+![Konfirmasi Hapus Todo](screenshots/06konfirmasi_hapus_todo.png)
+
+### 7. Setelah Hapus Todo
+Tugas yang dihapus langsung hilang dari daftar.
+
+![Setelah Hapus Todo](screenshots/07setelah_hapus_todo.png)
+
+### 8. Setelah Update Todo
+Perubahan data tugas langsung tampil di aplikasi.
+
+![Setelah Update Todo](screenshots/08setelah_update_todo.png)
+
+---
+
+## Pembuat
+
+- **Nama:** _Alia fitri azkia_
+- **NIM:** _251401027_
